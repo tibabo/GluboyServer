@@ -1,0 +1,6 @@
+[submodule "libs/websocketpp"]
+	path = libs/websocketpp
+	url = https://github.com/zaphoyd/websocketpp
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = https://github.com/ocornut/imgui.git
